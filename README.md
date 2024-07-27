@@ -14,7 +14,7 @@ This project involves analyzing sales data for AdventureWorks, a fictitious comp
 ## 🔍 All Process
 
 1. **Data Collection:** Gathered sales data from AdventureWorks database.
-2. **Data Cleaning:** Removed duplicates and corrected inconsistencies.
+2. **Data Cleaning:**
 3. **Data Modelling:** Star Schema
 4. **Data Analysis:** Performed descriptive statistics and trend analysis.
 5. **Data Visualization:** Created interactive dashboards using Power BI.
@@ -62,7 +62,6 @@ This project involves analyzing sales data for AdventureWorks, a fictitious comp
 - North America: 4.1K orders
 - Europe: 3.2K orders
 - Asia: 6.8K orders
-- Undefined: Multiple territories with undefined order counts
 
 
 
@@ -72,7 +71,7 @@ To enhance the clarity and ease of capturing and searching data, the following n
 
 - Text Filter: Allows users to search for specific products easily.
 - Pyramid Visual: Helps in determining which salesperson made the most sales.
-- Play Axis Icon: Enables automatic playback and visualization of data over time.
+- Play Axis Icon: Enables automatic playback and visualization of data.
 
 
 

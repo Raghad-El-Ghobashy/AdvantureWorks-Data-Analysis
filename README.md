@@ -1,4 +1,4 @@
-# 🌟 AdventureWorks Data Analysis 🌟
+# 🚴 AdventureWorks Data Analysis
 
 ## 📊 Overview
 

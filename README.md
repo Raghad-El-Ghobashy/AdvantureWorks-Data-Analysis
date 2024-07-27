@@ -1,4 +1,4 @@
-# 🌟 AdventureWorks Data Analysis Project 🌟
+# 🌟 AdventureWorks Data Analysis 🌟
 
 ## 📊 Overview
 

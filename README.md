@@ -14,7 +14,7 @@ This project involves analyzing sales data for AdventureWorks, a fictitious comp
 ## 🔍 All Process
 
 1. **Data Collection:** Gathered sales data from AdventureWorks database.
-2. **Data Cleaning:**
+2. **Data Cleaning **
 3. **Data Modelling:** Star Schema
 4. **Data Analysis:** Performed descriptive statistics and trend analysis.
 5. **Data Visualization:** Created interactive dashboards using Power BI.

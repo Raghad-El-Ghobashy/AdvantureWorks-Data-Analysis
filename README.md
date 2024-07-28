@@ -19,11 +19,9 @@ This project involves analyzing sales data for AdventureWorks, a fictitious comp
 4. **Data Transformation**: Cleaned and prepared the dataset by renaming tables and columns and removing unused data.
 5. **Data Modeling**: Structured data into a star schema for efficient querying and analysis.
 6. **Measures**: Created a set of critical measures for analysis, including the use of USERELATIONSHIP function to manage Inactive Relationships in a Role-Playing Dimension.
-7. **Data Cleaning**
-8. **Data Modelling:** Star Schema
-9. **Data Analysis:** Performed descriptive statistics and trend analysis.
-10. **Data Visualization:** Created interactive dashboards using Power BI.
-11. **Reporting:** Summarized findings and prepared reports for stakeholders.
+7. **Data Analysis:** Performed descriptive statistics and trend analysis.
+8. **Data Visualization:** Created interactive dashboards using Power BI.
+9. **Reporting:** Summarized findings and prepared reports for stakeholders.
 
 
 ### 🛒 Product Dashboard
